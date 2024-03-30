@@ -1,9 +1,10 @@
 {
-  "name": "atm",
+  "name": "m5ra96-atm-machine",
   "version": "1.0.0",
   "description": "this is atm machine process",
   "main": "index.js",
   "type": "module",
+  "bin": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
